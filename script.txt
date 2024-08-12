@@ -1,0 +1,6 @@
+how to make it dnd without library
+common errors
+- onHoverEnd
+- doing on component, doesn't work
+- do not do it in the component children for handling the drag and drop
+- 
